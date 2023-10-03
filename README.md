@@ -14,6 +14,7 @@ Please see the documentation for the library used:
 
 ### Add on by student
 The timer program was changed to create a nerves of steel program, used to play the nerves of steel game.
+
 To play the game: 
 1. The program displays "Players stand"
 2. The program sleeps for a random time between 5 to 25 seconds.  While the program is sleeping, players can sit down.  Keep track of the last person to sit down.
